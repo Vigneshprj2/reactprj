@@ -1,0 +1,38 @@
+#Employee {
+  font-family: Arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Employee th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ededed;
+  color: red;
+}
+#Employee td {
+  background-color: #ededed;
+}
+.empdet tr,
+.empdet th,
+.empdet td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+img {
+  /* margin-left: 40px; */
+  width: 180px;
+  /* padding-top: 20px; */
+}
+.Profile_photo {
+  /* background-color: lightgreen; */
+  background-color: #ededed;
+
+  display: inline-block;
+  width: 200px;
+  /* height: 300px; */
+  margin: 10px;
+  text-align: center;
+  padding: 10px;
+}

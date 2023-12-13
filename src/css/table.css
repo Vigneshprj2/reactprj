@@ -1,0 +1,13 @@
+.table table{
+    width:100%;
+    background-color: #ef017c;
+    color: white;
+    border: solid black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+.table th,.table td {
+    border: 1px solid black;
+}

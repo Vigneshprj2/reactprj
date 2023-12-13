@@ -1,0 +1,27 @@
+.bgH1 {
+    background-color: #ededed;
+    padding: 15px;
+}
+.intro {
+    padding: 15px;
+    font-size: 20px;
+}
+.bH2 {
+    padding: 15px;
+}
+.wtp {
+ padding:15px;
+ font-size: 20px;
+}
+.homepage button{
+    padding: 10px;
+}
+#resume-btn {
+    background-color: #ededed;
+    color: black;
+    text-decoration: none;
+    border: black 2px;
+    padding: 2px;
+    display: inline-block;
+}
+  

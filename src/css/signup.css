@@ -1,0 +1,22 @@
+.signupform #signup-btn {
+  background-color:  hsl(329, 99%, 47%);
+  color:white;
+}
+.signupform {
+  width: 300px;
+  border: 1px solid green;
+  background-color: white;
+  padding: 25px;
+  margin: auto;
+  margin-top: 12%;
+  background-color: #ededed;
+  border-radius: 10px;
+  border: 1px solid red;
+}
+.signupform .form-group {
+  margin-top: 10px;
+}
+.signupform input {
+  width: 98%;
+  padding: 6px;
+}

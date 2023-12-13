@@ -1,0 +1,26 @@
+/* div{
+         background-color:yellow;
+         border: 1px solid red;
+      } */
+.loginform #login-btn {
+  background-color: #ef017c;
+  color: white;
+}
+.loginform {
+  width: 300px;
+  border: 1px solid green;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+  margin-top: 12%;
+  background-color: #ededed;
+  border-radius: 1px solid red;
+  border-radius: 10px;
+}
+.loginform .form-group {
+  margin-top: 10px;
+}
+input {
+  width: 98%;
+  padding: 6px;
+}
